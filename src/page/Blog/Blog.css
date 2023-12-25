@@ -1,0 +1,1448 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}
+.blog-list-page-dMK {
+  width: 100%;
+  height: 286.6rem;
+  position: relative;
+  overflow: hidden;
+  /* background-color: #ffffff; */
+  top: -90px;
+}
+.blog-list-page-dMK .navigation-vLR {
+  width: 127.9962rem;
+  height: 3rem;
+  position: absolute;
+  left: 8rem;
+  top: 4rem;
+  display: flex;
+  align-items: center;
+}
+.blog-list-page-dMK .navigation-vLR .foodieland-Ec1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lobster, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .foodieland-Ec1 .foodieland-Ec1-sub-0 {
+}
+.blog-list-page-dMK .navigation-vLR .foodieland-Ec1 .foodieland-Ec1-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ff7426;
+  font-family: Lobster, 'Source Sans Pro';
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df {
+  box-sizing: border-box;
+  padding: 0.4rem 0rem 0.4rem 27.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df .group-824-nQZ {
+  margin: 0.2rem 25.4rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df .group-824-nQZ .home-iZ7 {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df .group-824-nQZ .recipes-RiR {
+  margin-right: 6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df .group-824-nQZ .blog-xCZ {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df .group-824-nQZ .contact-guF {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df .group-824-nQZ .about-us-cY1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df .social-ZCM {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df .social-ZCM .facebook-KhK {
+  margin: 0rem 4.004rem 0.016rem 0rem;
+  width: 0.9923rem;
+  height: 1.9845rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df .social-ZCM .twitter-pty {
+  margin: 0rem 4rem 0.013rem 0rem;
+  width: 2.2rem;
+  height: 1.7875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .navigation-vLR .auto-group-8b2y-4Df .social-ZCM .instagram-LMX {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .vector-2-TBF {
+  width: 144rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 11rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.blog-list-page-dMK .subscribe-card-N3K {
+  box-sizing: border-box;
+  padding: 8rem 34.8rem 8rem 34.5rem;
+  width: 128rem;
+  height: 44.2rem;
+  position: absolute;
+  left: 8rem;
+  top: 222.3rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-G4R.png');
+}
+.blog-list-page-dMK .subscribe-card-N3K .group-874-gJu {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.blog-list-page-dMK .subscribe-card-N3K .group-874-gJu .deliciousness-to-your-inbox-qSh {
+  margin-bottom: 2.3rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.192rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .subscribe-card-N3K .group-874-gJu .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-ad-minim-kZf {
+  margin: 0rem 0rem 6.4rem 0.3rem;
+  max-width: 57.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .subscribe-card-N3K .group-874-gJu .auto-group-ts8u-o29 {
+  margin: 0rem 5.2rem 0rem 5.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1rem 1rem 3.2rem;
+  width: calc(100% - 10.7rem);
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .subscribe-card-N3K .group-874-gJu .auto-group-ts8u-o29 .your-email-address-uL5 {
+  margin: 0rem 14.4rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .subscribe-card-N3K .group-874-gJu .auto-group-ts8u-o29 .group-826-pC9 {
+  width: 16rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB {
+  width: 128rem;
+  height: 19.3rem;
+  position: absolute;
+  left: 8rem;
+  top: 282.5rem;
+  row-gap: 4.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT {
+  width: 100%;
+  height: 7.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT .group-875-UR7 {
+  margin-right: 48.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT .group-875-UR7 .foodieland-ayw {
+  margin-bottom: 1.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lobster, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT .group-875-UR7 .foodieland-ayw .foodieland-ayw-sub-0 {
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT .group-875-UR7 .foodieland-ayw .foodieland-ayw-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ff7426;
+  font-family: Lobster, 'Source Sans Pro';
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT .group-875-UR7 .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-9vZ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT .group-824-gQh {
+  margin: 2.8rem 0rem 2.6rem 0rem;
+  height: calc(100% - 5.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT .group-824-gQh .recipes-bXf {
+  margin-right: 6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT .group-824-gQh .blog-LEM {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT .group-824-gQh .contact-Gdo {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-tjk1-7qT .group-824-gQh .about-us-n6M {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .vector-1-ikh {
+  width: 128rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-xpmt-TTP {
+  margin: 0rem 0.004rem 0rem 47.2rem;
+  width: calc(100% - 47.2038rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-xpmt-TTP .flowbase-powered-by-webflow-aY1 {
+  margin-right: 39.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: -0.036rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Eudoxus Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-xpmt-TTP .flowbase-powered-by-webflow-aY1 .flowbase-powered-by-webflow-aY1-sub-0 {
+}
+.blog-list-page-dMK .footer-DVB .auto-group-xpmt-TTP .flowbase-powered-by-webflow-aY1 .flowbase-powered-by-webflow-aY1-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: -0.036rem;
+  color: #ff7967;
+  font-family: Eudoxus Sans, 'Source Sans Pro';
+}
+.blog-list-page-dMK .footer-DVB .auto-group-xpmt-TTP .social-Haq {
+  margin-bottom: 0.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-xpmt-TTP .social-Haq .facebook-op5 {
+  margin: 0rem 4.004rem 0.016rem 0rem;
+  width: 0.9923rem;
+  height: 1.9845rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-xpmt-TTP .social-Haq .twitter-wQV {
+  margin: 0rem 4rem 0.013rem 0rem;
+  width: 2.2rem;
+  height: 1.7875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .footer-DVB .auto-group-xpmt-TTP .social-Haq .instagram-5Fo {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .header-PGV {
+  width: 82.3rem;
+  height: 28.9rem;
+  position: absolute;
+  left: 30.85rem;
+  top: 19rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.blog-list-page-dMK .header-PGV .blog-article-Kfw {
+  margin: 0rem 0rem 2.3rem 0.1rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.256rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .header-PGV .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-DWR {
+  margin-bottom: 8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .header-PGV .search-bar-iCH {
+  margin: 0 6.15rem;
+  box-sizing: border-box;
+  padding: 1rem 1rem 1rem 3.2rem;
+  width: calc(100% - 12.3rem);
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .header-PGV .search-bar-iCH .search-article-news-or-recipe-2Ts {
+  margin: 0rem 29.6rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .header-PGV .search-bar-iCH .group-826-uXf {
+  width: 16rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy {
+  width: 128rem;
+  height: 136rem;
+  position: absolute;
+  left: 8rem;
+  top: 55.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu {
+  margin-right: 5.3rem;
+  width: 82.7rem;
+  height: 100%;
+  row-gap: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F {
+  margin-right: 0.5rem;
+  width: calc(100% - 0.5rem);
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F .mask-group-rdF {
+  margin-right: 4rem;
+  width: 29rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F .auto-group-58kr-bKw {
+  margin: 1.3rem 0rem 1.4rem 0rem;
+  height: calc(100% - 2.7rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F .auto-group-58kr-bKw .crochet-projects-for-noodle-lovers-fah {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F .auto-group-58kr-bKw .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-m7w {
+  margin-bottom: 3.2rem;
+  max-width: 49.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F .auto-group-58kr-bKw .auto-group-trrx-Pf7 {
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F .auto-group-58kr-bKw .auto-group-trrx-Pf7 .group-904-jys {
+  margin-right: 2.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F .auto-group-58kr-bKw .auto-group-trrx-Pf7 .group-904-jys .ellipse-2-hfo {
+  margin-right: 1.6rem;
+  width: 4rem;
+  height: 4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-ka5.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F .auto-group-58kr-bKw .auto-group-trrx-Pf7 .group-904-jys .wade-warren-9nh {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F .auto-group-58kr-bKw .auto-group-trrx-Pf7 .vector-4-H8D {
+  margin-right: 2.4rem;
+  width: 0;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-905-i1F .auto-group-58kr-bKw .auto-group-trrx-Pf7 .november-2021-q9j {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT {
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT .mask-group-UiV {
+  margin-right: 4rem;
+  width: 29rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT .auto-group-imwh-RNq {
+  margin: 1.3rem 0rem 1.4rem 0rem;
+  height: calc(100% - 2.7rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT .auto-group-imwh-RNq .vegetarian-recipes-to-eat-this-month-xdf {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT .auto-group-imwh-RNq .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-HR3 {
+  margin-bottom: 3.2rem;
+  max-width: 49.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT .auto-group-imwh-RNq .auto-group-phv9-NxH {
+  height: 4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT .auto-group-imwh-RNq .auto-group-phv9-NxH .group-904-HJZ {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT .auto-group-imwh-RNq .auto-group-phv9-NxH .group-904-HJZ .ellipse-2-EzV {
+  margin-right: 1.6rem;
+  width: 4rem;
+  height: 4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-iVP.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT .auto-group-imwh-RNq .auto-group-phv9-NxH .group-904-HJZ .robert-fox-B93 {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT .auto-group-imwh-RNq .auto-group-phv9-NxH .vector-4-tJM {
+  width: 0;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-906-XHT .auto-group-imwh-RNq .auto-group-phv9-NxH .november-2021-qzH {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR {
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR .mask-group-r8h {
+  margin-right: 4rem;
+  width: 29rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR .auto-group-1cl9-bry {
+  margin: 1.3rem 0rem 1.4rem 0rem;
+  height: calc(100% - 2.7rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR .auto-group-1cl9-bry .full-guide-to-becoming-a-professional-chef-wR3 {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR .auto-group-1cl9-bry .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-4Vf {
+  margin-bottom: 3.2rem;
+  max-width: 49.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR .auto-group-1cl9-bry .auto-group-kyzv-LTB {
+  height: 4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR .auto-group-1cl9-bry .auto-group-kyzv-LTB .group-904-VL5 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR .auto-group-1cl9-bry .auto-group-kyzv-LTB .group-904-VL5 .ellipse-2-eCy {
+  margin-right: 1.6rem;
+  width: 4rem;
+  height: 4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-GAm.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR .auto-group-1cl9-bry .auto-group-kyzv-LTB .group-904-VL5 .dianne-russell-Nuf {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR .auto-group-1cl9-bry .auto-group-kyzv-LTB .vector-4-FyT {
+  width: 0;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-907-wnR .auto-group-1cl9-bry .auto-group-kyzv-LTB .november-2021-Q5f {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX {
+  margin-right: 0.5rem;
+  width: calc(100% - 0.5rem);
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX .mask-group-fXP {
+  margin-right: 4rem;
+  width: 29rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX .auto-group-lts5-yHB {
+  margin: 1.3rem 0rem 1.4rem 0rem;
+  height: calc(100% - 2.7rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX .auto-group-lts5-yHB .simple-delicious-vegetarian-lasagna-iEm {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX .auto-group-lts5-yHB .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-Eiu {
+  margin-bottom: 3.2rem;
+  max-width: 49.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX .auto-group-lts5-yHB .auto-group-zd8m-jff {
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX .auto-group-lts5-yHB .auto-group-zd8m-jff .group-904-Hx5 {
+  margin-right: 2.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX .auto-group-lts5-yHB .auto-group-zd8m-jff .group-904-Hx5 .ellipse-2-f3X {
+  margin-right: 1.6rem;
+  width: 4rem;
+  height: 4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-2UZ.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX .auto-group-lts5-yHB .auto-group-zd8m-jff .group-904-Hx5 .leslie-alexander-y4D {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX .auto-group-lts5-yHB .auto-group-zd8m-jff .vector-4-Ekq {
+  margin-right: 2.4rem;
+  width: 0;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-908-KTX .auto-group-lts5-yHB .auto-group-zd8m-jff .november-2021-aJu {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu {
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu .mask-group-2Ro {
+  margin-right: 4rem;
+  width: 29rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu .auto-group-jmdb-kMo {
+  margin: 1.3rem 0rem 1.4rem 0rem;
+  height: calc(100% - 2.7rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu .auto-group-jmdb-kMo .plantain-and-pinto-stew-with-aji-verde-4dP {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu .auto-group-jmdb-kMo .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-m21 {
+  margin-bottom: 3.2rem;
+  max-width: 49.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu .auto-group-jmdb-kMo .auto-group-ygft-rJM {
+  height: 4rem;
+  display: flex;
+  column-gap: 2.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu .auto-group-jmdb-kMo .auto-group-ygft-rJM .group-904-oUV {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu .auto-group-jmdb-kMo .auto-group-ygft-rJM .group-904-oUV .ellipse-2-NGh {
+  margin-right: 1.6rem;
+  width: 4rem;
+  height: 4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-HF7.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu .auto-group-jmdb-kMo .auto-group-ygft-rJM .group-904-oUV .courtney-henry-Jg9 {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu .auto-group-jmdb-kMo .auto-group-ygft-rJM .vector-4-26M {
+  width: 0;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-909-JEu .auto-group-jmdb-kMo .auto-group-ygft-rJM .november-2021-Zry {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK {
+  width: 100%;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK .mask-group-edX {
+  margin-right: 4rem;
+  width: 29rem;
+  height: 20rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK .auto-group-snsu-kAm {
+  margin: 1.3rem 0rem 1.4rem 0rem;
+  height: calc(100% - 2.7rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK .auto-group-snsu-kAm .were-hiring-a-communications-assistant-fHj {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK .auto-group-snsu-kAm .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-xXj {
+  margin-bottom: 3.2rem;
+  max-width: 49.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK .auto-group-snsu-kAm .auto-group-gw81-csB {
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK .auto-group-snsu-kAm .auto-group-gw81-csB .group-904-NLZ {
+  margin-right: 2.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK .auto-group-snsu-kAm .auto-group-gw81-csB .group-904-NLZ .ellipse-2-WBs {
+  margin-right: 1.6rem;
+  width: 4rem;
+  height: 4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-2dw.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK .auto-group-snsu-kAm .auto-group-gw81-csB .group-904-NLZ .albert-flores-2R7 {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK .auto-group-snsu-kAm .auto-group-gw81-csB .vector-4-9kd {
+  margin-right: 2.4rem;
+  width: 0;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .blog-list-3Qu .group-910-5qK .auto-group-snsu-kAm .auto-group-gw81-csB .november-2021-Hbw {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd {
+  width: 40rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT {
+  margin-bottom: 8rem;
+  width: 38.4rem;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .tasty-recipes-qWy {
+  margin-bottom: 3.2rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.128rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .group-888-Nmo {
+  width: 100%;
+  height: 12rem;
+  display: flex;
+  align-items: center;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .group-888-Nmo .mask-group-YAV {
+  margin-right: 2.4rem;
+  width: 18rem;
+  height: 12rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .group-888-Nmo .group-887-GMP {
+  margin: 1.6rem 0rem 1.5rem 0rem;
+  height: calc(100% - 3.1rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .group-888-Nmo .group-887-GMP .chicken-meatballs-with-cream-cheese-DGd {
+  margin-bottom: 1.6rem;
+  max-width: 18rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.08rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .group-888-Nmo .group-887-GMP .by-andreas-paula-ufF {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX {
+  box-sizing: border-box;
+  padding-top: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX .group-889-C8Z {
+  margin: 0rem 3rem 2.4rem 0rem;
+  width: calc(100% - 3rem);
+  height: 12rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX .group-889-C8Z .mask-group-XRj {
+  margin-right: 2.4rem;
+  width: 18rem;
+  height: 12rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX .group-889-C8Z .group-887-F6q {
+  margin: 1.6rem 0rem 1.5rem 0rem;
+  height: calc(100% - 3.1rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX .group-889-C8Z .group-887-F6q .traditional-bolognaise-ragu-Piq {
+  margin-bottom: 1.6rem;
+  max-width: 15rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.08rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX .group-889-C8Z .group-887-F6q .by-andreas-paula-iWD {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX .group-890-44H {
+  margin-right: 0.6rem;
+  width: calc(100% - 0.6rem);
+  height: 12rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX .group-890-44H .mask-group-b4D {
+  margin-right: 2.4rem;
+  width: 18rem;
+  height: 12rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX .group-890-44H .group-887-iPj {
+  margin: 1.6rem 0rem 1.5rem 0rem;
+  height: calc(100% - 3.1rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX .group-890-44H .group-887-iPj .pork-and-chive-chinese-dumplings-rkq {
+  margin-bottom: 1.6rem;
+  max-width: 17.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.08rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .tasty-recipe-HVT .auto-group-3khw-EhX .group-890-44H .group-887-iPj .by-andreas-paula-n8h {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .ads-7gm {
+  width: 100%;
+  height: 43.4rem;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-XJq.png');
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .ads-7gm .dont-forget-to-eat-healthy-food-fCV {
+  width: 17.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lobster, 'Source Sans Pro';
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .ads-7gm .item-01-LpR {
+  width: 35.4rem;
+  height: 33.6rem;
+  position: relative;
+  left: 2.2rem;
+  top: 9.8rem;
+  background-size: 100% 105.357%;
+  background-position: 0 0;
+  background-image: url('../assets/-P8m.png');
+}
+.blog-list-page-dMK .auto-group-b7us-Lcy .auto-group-xffp-kEd .ads-7gm .wwwfoodielandcom-S6m {
+  width: 13.7rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 38.5rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(255, 255, 255, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.blog-list-page-dMK .group-13934-4P3 {
+  width: 54.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 44.8rem;
+  top: 199.9rem;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  border-radius: 1.6rem;
+}
+.blog-list-page-dMK .group-13934-4P3 .group-13927-yku {
+  width: 6.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .group-13934-4P3 .group-13928-SuP {
+  width: 6.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .group-13934-4P3 .group-13929-CXB {
+  width: 6.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .group-13934-4P3 .group-13930-fQm {
+  width: 6.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .group-13934-4P3 .group-13931-M2h {
+  width: 6.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .group-13934-4P3 .group-13932-aRF {
+  width: 6.4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .group-13934-4P3 .group-13933-Tjw {
+  box-sizing: border-box;
+  padding: 2.6rem 2.8rem 2.6rem 3rem;
+  height: 100%;
+  border: solid 0.1rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.blog-list-page-dMK .group-13934-4P3 .group-13933-Tjw .vector-8-CxR {
+  width: 0.6rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.6rem;
+}

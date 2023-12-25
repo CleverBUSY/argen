@@ -1,0 +1,4219 @@
+.container {
+  margin: 0 auto;
+  width: 1400px;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+.home-page-JXT {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.home-page-JXT .auto-group-kfgd-cY9 {
+  box-sizing: border-box;
+  padding: 4rem 0;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 {
+  margin: 0rem 8.004rem 4rem 8rem;
+  width: calc(100% - 16.0038rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .foodieland-14V {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lobster, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .foodieland-14V .foodieland-14V-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ff7426;
+  font-family: Lobster, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX {
+  box-sizing: border-box;
+  padding: 0.4rem 0rem 0.4rem 27.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX .group-824-ky7 {
+  margin: 0.2rem 25.4rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX .group-824-ky7 .home-h7f {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX .group-824-ky7 .recipes-1e9 {
+  margin-right: 6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX .group-824-ky7 .blog-YPB {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX .group-824-ky7 .contact-qNH {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX .group-824-ky7 .about-us-YnV {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX .social-gth {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX .social-gth .facebook-eqX {
+  margin: 0rem 4.004rem 0.016rem 0rem;
+  width: 0.9923rem;
+  height: 1.9845rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX .social-gth .twitter-xLR {
+  margin: 0rem 4rem 0.013rem 0rem;
+  width: 2.2rem;
+  height: 1.7875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .navigation-Xv1 .auto-group-pkmb-sPX .social-gth .instagram-EYq {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-kfgd-cY9 .vector-2-5JZ {
+  width: 144rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q {
+  width: 100%;
+  height: 64rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .rectangle-5-yPw {
+  width: 4rem;
+  height: 60rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih {
+  width: 128rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .rectangle-1-eW5 {
+  width: 62rem;
+  height: 64rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .mask-group-zpq {
+  width: 66rem;
+  height: 64rem;
+  position: absolute;
+  left: 62rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .spicy-delicious-chicken-wings-YbT {
+  width: 42.8rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 5rem;
+  top: 12.7rem;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.256rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-ad-minim-NKb {
+  width: 51.7rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 5rem;
+  top: 30.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-825-CZX {
+  width: 16.2rem;
+  height: 5rem;
+  position: absolute;
+  left: 5rem;
+  top: 53.5rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-825-CZX .ellipse-2-7gV {
+  margin-right: 1.6rem;
+  width: 5rem;
+  height: 5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg.png');
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-825-CZX .auto-group-hjff-SCy {
+  margin: 0.3rem 0;
+  height: calc(100% - 0.6rem);
+  display: flex !important;
+  align-items: center;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-825-CZX .auto-group-hjff-SCy .john-smith-LZF {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-825-CZX .auto-group-hjff-SCy .march-2022-fbX {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-831-y6R {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 13.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 5rem;
+  top: 39.1rem;
+  background-color: rgba(0, 0, 0, 0.0500000007);
+  border-radius: 3rem;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-831-y6R .group-829-eTT {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-831-y6R .group-829-eTT .timer-1Yu {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-831-y6R .group-829-eTT .minutes-iTK {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-832-Bbo {
+  box-sizing: border-box;
+  padding: 0.8rem 1.6rem;
+  width: 11.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 20.5rem;
+  top: 39.1rem;
+  background-color: rgba(0, 0, 0, 0.0500000007);
+  border-radius: 3rem;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-832-Bbo .group-830-7VT {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-832-Bbo .group-830-7VT .forkknife-gHf {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-832-Bbo .group-830-7VT .chicken-E4H {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-826-JK3 {
+  box-sizing: border-box;
+  padding: 1.8rem 3.6rem 1.8rem 3.7rem;
+  width: 20rem;
+  height: 6rem;
+  position: absolute;
+  left: 37rem;
+  top: 53rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-826-JK3 .group-833-P5b {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-826-JK3 .group-833-P5b .view-recipes-idf {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-826-JK3 .group-833-P5b .playcircle-S3s {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-828-AVf {
+  box-sizing: border-box;
+  padding: 1.1rem 2rem 1rem 2rem;
+  width: 15.6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 5rem;
+  top: 5rem;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  box-shadow: 1rem 2rem 4rem rgba(41, 64, 70, 0.1000000015);
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-828-AVf .group-827-HqB {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-828-AVf .group-827-HqB .image-14-1mB {
+  margin-right: 1.3rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .group-828-AVf .group-827-HqB .hot-recipes-pid {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 57rem;
+  top: 5rem;
+  background-color: #fff;
+  border-radius: 7.5rem;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .linked-ellipse-4-LKb {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 4rem;
+  top: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .ellipse-3-g8Z {
+  width: 12rem;
+  height: 12rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-1Aq {
+  width: 0.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 0.7354rem;
+  top: 6.304rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-6CH {
+  width: 0.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 0.8177rem;
+  top: 5.4169rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-9RT {
+  width: 0.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 1.0511rem;
+  top: 4.5565rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-4oK {
+  width: 0.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 1.4274rem;
+  top: 3.7513rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-b2Z {
+  width: 0.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 1.9445rem;
+  top: 3.0435rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-GuP {
+  width: 0.4rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 2.4941rem;
+  top: 2.5922rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-mr9 {
+  width: 1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 2.8257rem;
+  top: 2.1155rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-gCR {
+  width: 0.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 3.6988rem;
+  top: 1.5715rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-yBX {
+  width: 0.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 4.5766rem;
+  top: 1.1938rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-Hxu {
+  width: 0.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 5.4196rem;
+  top: 0.9293rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-wnZ {
+  width: 0.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 6.7341rem;
+  top: 0.7587rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-FoF {
+  width: 0.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 7.5376rem;
+  top: 0.7703rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-A9X {
+  width: 1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 8.2268rem;
+  top: 0.9106rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-VBo {
+  width: 0.4rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 9.1111rem;
+  top: 1.1111rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-CM7 {
+  width: 0.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 9.4212rem;
+  top: 1.3444rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-5fo {
+  width: 0.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 10.0545rem;
+  top: 1.7387rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .copy-handpicked-recipes-orh {
+  width: 0.8rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 10.6446rem;
+  top: 2.2237rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-enxb-q2q .featured-recipe-Kih .badge-4N5 .image-15-K4M {
+  width: 6.8301rem;
+  height: 6.8301rem;
+  position: absolute;
+  left: 3.8849rem;
+  top: 3.8849rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-enxb-q2q .rectangle-6-bGm {
+  width: 4rem;
+  height: 60rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 {
+  box-sizing: border-box;
+  padding: 16rem 8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 {
+  margin-bottom: 18.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .auto-group-rh9t-qgu {
+  margin-bottom: 7.9rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .auto-group-rh9t-qgu .categories-PyK {
+  margin-right: 84.3rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.192rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .auto-group-rh9t-qgu .group-843-XZj {
+  margin-bottom: 0.1rem;
+  width: 20rem;
+  height: 6rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e7fafe;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 {
+  width: 100%;
+  height: 20.2rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-836-qD3 {
+  width: 18rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-836-qD3 .rectangle-7-Zuj {
+  width: 18rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  background: linear-gradient(180deg, rgba(112, 130, 70, 0) -0%, rgba(112, 130, 70, 0.1000000015) 100%);
+  border-radius: 3rem;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-836-qD3 .breakfast-sfX {
+  width: 8.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 15rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-836-qD3 .image-24-nnV {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 6rem;
+  top: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-836-qD3 .image-25-8rM {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-837-Tdj {
+  width: 18rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-837-Tdj .rectangle-7-CLR {
+  width: 18rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  background: linear-gradient(180deg, rgba(108, 198, 63, 0) -0%, rgba(108, 197, 63, 0.1000000015) 100%);
+  border-radius: 3rem;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-837-Tdj .vegan-Wc1 {
+  width: 5.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 15rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-837-Tdj .group-879-nZX {
+  width: 12rem;
+  height: 12rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-837-Tdj .group-879-nZX .image-19-ii5 {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-837-Tdj .group-879-nZX .image-20-EwK {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-838-Nnd {
+  width: 18rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-838-Nnd .rectangle-7-hK7 {
+  width: 18rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  background: linear-gradient(180deg, rgba(204, 38, 27, 0) -0%, rgba(204, 38, 27, 0.1000000015) 100%);
+  border-radius: 3rem;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-838-Nnd .meat-RF7 {
+  width: 4.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 6.75rem;
+  top: 15rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-838-Nnd .image-20-iV7 {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 6rem;
+  top: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-838-Nnd .image-21-GWd {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-839-pY9 {
+  width: 18rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-839-pY9 .rectangle-7-ZVj {
+  width: 18rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  background: linear-gradient(180deg, rgba(240, 158, 0, 0) -0%, rgba(240, 158, 0, 0.1000000015) 100%);
+  border-radius: 3rem;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-839-pY9 .dessert-5ys {
+  width: 6.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 15rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-839-pY9 .image-21-B1K {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 6rem;
+  top: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-839-pY9 .image-22-8BT {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-840-GYZ {
+  width: 18rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-840-GYZ .rectangle-7-2nd {
+  width: 18rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.0500000007) 100%);
+  border-radius: 3rem;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-840-GYZ .lunch-6Gh {
+  width: 5.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 6.35rem;
+  top: 15rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-840-GYZ .image-22-1Pf {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 6rem;
+  top: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-840-GYZ .image-23-A1f {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-841-tiM {
+  width: 18rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-841-tiM .rectangle-7-TFf {
+  width: 18rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) -0%, rgba(0, 0, 0, 0.0500000007) 100%);
+  border-radius: 3rem;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-841-tiM .chocolate-P9K {
+  width: 8.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 4.65rem;
+  top: 15rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-841-tiM .image-23-dZT {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 6rem;
+  top: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .categories-gZ7 .group-842-729 .group-841-tiM .image-24-P2q {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 {
+  margin-bottom: 14.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-nvyz-pdw {
+  box-sizing: border-box;
+  padding: 0rem 30.6rem 9.6rem 30rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-nvyz-pdw .simple-and-tasty-recipes-kXb {
+  margin: 0rem 0rem 2.3rem 0.4rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.192rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-nvyz-pdw .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-ad-minim-rad {
+  max-width: 67.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 43.4rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 3.2rem 1.6rem;
+  width: 40rem;
+  height: 100%;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) -0%, #e7f9fd 100%);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD .auto-group-ptwm-Z1B {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2rem 30rem;
+  width: 100%;
+  height: 25rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-ymT.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD .auto-group-ptwm-Z1B .group-852-tJM {
+  margin-bottom: 16.2rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD .big-and-juicy-wagyu-beef-cheeseburger-aws {
+  margin-left: 0.8rem;
+  max-width: 27.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD .auto-group-csob-Fo7 {
+  margin: 0rem 15.5rem 0rem 0.8rem;
+  width: calc(100% - 16.3rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD .auto-group-csob-Fo7 .group-829-yz1 {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD .auto-group-csob-Fo7 .group-829-yz1 .timer-LZf {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD .auto-group-csob-Fo7 .group-829-yz1 .minutes-UQy {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD .auto-group-csob-Fo7 .group-830-A2u {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD .auto-group-csob-Fo7 .group-830-A2u .forkknife-8Ed {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-ciD .auto-group-csob-Fo7 .group-830-A2u .snack-EHf {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 3.2rem 1.6rem;
+  width: 40rem;
+  height: 100%;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) -0%, #e7f9fd 100%);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX .auto-group-6ywx-LV7 {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2rem 30rem;
+  width: 100%;
+  height: 25rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-jV3.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX .auto-group-6ywx-LV7 .group-852-sV3 {
+  margin-bottom: 16.2rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX .fresh-lime-roasted-salmon-with-ginger-sauce-CnD {
+  margin-left: 0.8rem;
+  max-width: 34.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX .auto-group-gyuq-GGH {
+  margin: 0rem 16.8rem 0rem 0.8rem;
+  width: calc(100% - 17.6rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX .auto-group-gyuq-GGH .group-829-C9w {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX .auto-group-gyuq-GGH .group-829-C9w .timer-ZFP {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX .auto-group-gyuq-GGH .group-829-C9w .minutes-VPw {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX .auto-group-gyuq-GGH .group-830-R2h {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX .auto-group-gyuq-GGH .group-830-R2h .forkknife-BXf {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-SuX .auto-group-gyuq-GGH .group-830-R2h .fish-JMP {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 3.2rem 1.6rem;
+  width: 40rem;
+  height: 100%;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) -0%, #e7f9fd 100%);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 .auto-group-egjt-cmP {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2rem 30rem;
+  width: 100%;
+  height: 25rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 .auto-group-egjt-cmP .group-852-Miy {
+  margin-bottom: 16.2rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 .strawberry-oatmeal-pancake-with-honey-syrup-4tH {
+  margin-left: 0.8rem;
+  max-width: 31.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 .auto-group-w3a1-mnh {
+  margin: 0rem 13.3rem 0rem 0.8rem;
+  width: calc(100% - 14.1rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 .auto-group-w3a1-mnh .group-829-WEV {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 .auto-group-w3a1-mnh .group-829-WEV .timer-T9j {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 .auto-group-w3a1-mnh .group-829-WEV .minutes-bmj {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 .auto-group-w3a1-mnh .group-830-vp1 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 .auto-group-w3a1-mnh .group-830-vp1 .forkknife-5gu {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-gcp9-5TP .group-845-Hz1 .auto-group-w3a1-mnh .group-830-vp1 .breakfast-BE9 {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 43.4rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 3.2rem 1.6rem;
+  width: 40rem;
+  height: 100%;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) -0%, #e7f9fd 100%);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf .auto-group-suvj-gKK {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2rem 30rem;
+  width: 100%;
+  height: 25rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-obX.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf .auto-group-suvj-gKK .group-852-Dq3 {
+  margin-bottom: 16.2rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf .fresh-and-healthy-mixed-mayonnaise-salad-jYV {
+  margin-left: 0.8rem;
+  max-width: 26.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf .auto-group-aglh-EEM {
+  margin: 0rem 14.5rem 0rem 0.8rem;
+  width: calc(100% - 15.3rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf .auto-group-aglh-EEM .group-829-mEH {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf .auto-group-aglh-EEM .group-829-mEH .timer-Kmb {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf .auto-group-aglh-EEM .group-829-mEH .minutes-HCd {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf .auto-group-aglh-EEM .group-830-AnD {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf .auto-group-aglh-EEM .group-830-AnD .forkknife-Xsf {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-kRf .auto-group-aglh-EEM .group-830-AnD .healthy-V3o {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 3.2rem 1.6rem;
+  width: 40rem;
+  height: 100%;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) -0%, #e7f9fd 100%);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 .auto-group-nk8y-1AZ {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2rem 30rem;
+  width: 100%;
+  height: 25rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-CkR.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 .auto-group-nk8y-1AZ .group-852-Lid {
+  margin-bottom: 16.2rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 .chicken-meatballs-with-cream-cheese-ezD {
+  margin-left: 0.8rem;
+  max-width: 32.7rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 .auto-group-njgh-NfK {
+  margin: 0rem 16.2rem 0rem 0.8rem;
+  width: calc(100% - 17rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 .auto-group-njgh-NfK .group-829-uQM {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 .auto-group-njgh-NfK .group-829-uQM .timer-TAy {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 .auto-group-njgh-NfK .group-829-uQM .minutes-b2H {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 .auto-group-njgh-NfK .group-830-h5K {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 .auto-group-njgh-NfK .group-830-h5K .forkknife-G8R {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .group-845-Lq7 .auto-group-njgh-NfK .group-830-h5K .meat-R1K {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .ads-Sh7 {
+  width: 40rem;
+  height: 100%;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-RoX.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .ads-Sh7 .dont-forget-to-eat-healthy-food-CgH {
+  width: 17.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 11.4rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Lobster, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .ads-Sh7 .item-01-Gw3 {
+  width: 35.4rem;
+  height: 33.6rem;
+  position: relative;
+  left: 2.2rem;
+  top: 9.8rem;
+  background-size: 100% 105.357%;
+  background-position: 0 0;
+  background-image: url('../assets/-3W1.png');
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-wezo-p2D .ads-Sh7 .wwwfoodielandcom-J73 {
+  width: 13.7rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 38.5rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(255, 255, 255, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX {
+  width: 100%;
+  height: 43.4rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 3.2rem 1.6rem;
+  width: 40rem;
+  height: 100%;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) -0%, #e7f9fd 100%);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 .auto-group-raqq-doX {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2rem 30rem;
+  width: 100%;
+  height: 25rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-QkH.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 .auto-group-raqq-doX .group-852-muj {
+  margin-bottom: 16.2rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 .fruity-pancake-with-orange-blueberry-hHb {
+  margin-left: 0.8rem;
+  max-width: 31.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 .auto-group-fjyd-DFw {
+  margin: 0rem 15.4rem 0rem 0.8rem;
+  width: calc(100% - 16.2rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 .auto-group-fjyd-DFw .group-829-kFs {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 .auto-group-fjyd-DFw .group-829-kFs .timer-6qX {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 .auto-group-fjyd-DFw .group-829-kFs .minutes-qHK {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 .auto-group-fjyd-DFw .group-830-wLM {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 .auto-group-fjyd-DFw .group-830-wLM .forkknife-Jgh {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-K29 .auto-group-fjyd-DFw .group-830-wLM .sweet-EKT {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 3.2rem 1.6rem;
+  width: 40rem;
+  height: 100%;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) -0%, #e7f9fd 100%);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF .auto-group-lg6v-p2m {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2rem 30rem;
+  width: 100%;
+  height: 25rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-svq.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF .auto-group-lg6v-p2m .group-852-Xhs {
+  margin-bottom: 16.2rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF .the-best-easy-one-pot-chicken-and-rice-eXb {
+  margin-left: 0.8rem;
+  max-width: 34.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF .auto-group-oslz-Mwo {
+  margin: 0rem 15.5rem 0rem 0.8rem;
+  width: calc(100% - 16.3rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF .auto-group-oslz-Mwo .group-829-Vo7 {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF .auto-group-oslz-Mwo .group-829-Vo7 .timer-Tjw {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF .auto-group-oslz-Mwo .group-829-Vo7 .minutes-oJ1 {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF .auto-group-oslz-Mwo .group-830-sYm {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF .auto-group-oslz-Mwo .group-830-sYm .forkknife-Eu7 {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-ghF .auto-group-oslz-Mwo .group-830-sYm .snack-bUm {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb {
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 3.2rem 1.6rem;
+  width: 40rem;
+  height: 100%;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) -0%, #e7f9fd 100%);
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb .auto-group-jpv1-zG1 {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2rem 30rem;
+  width: 100%;
+  height: 25rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-rvu.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb .auto-group-jpv1-zG1 .group-852-LKs {
+  margin-bottom: 16.2rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb .the-creamiest-creamy-chicken-and-bacon-pasta-2yP {
+  margin-left: 0.8rem;
+  max-width: 34.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb .auto-group-sxtk-X9T {
+  margin: 0rem 14.1rem 0rem 0.8rem;
+  width: calc(100% - 14.9rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb .auto-group-sxtk-X9T .group-829-nbB {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb .auto-group-sxtk-X9T .group-829-nbB .timer-wys {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb .auto-group-sxtk-X9T .group-829-nbB .minutes-ZkM {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb .auto-group-sxtk-X9T .group-830-UMX {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb .auto-group-sxtk-X9T .group-830-UMX .forkknife-zam {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .recipes-Kx5 .auto-group-jjid-mFX .group-845-HMb .auto-group-sxtk-X9T .group-830-UMX .noodles-MAR {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b {
+  width: 100%;
+  height: 59.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-853-b4m {
+  margin: 16.9rem 4.4rem 7.2rem 0rem;
+  width: 52.6rem;
+  height: calc(100% - 24.1rem);
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-853-b4m .everyone-can-be-a-chef-in-their-own-kitchen-JE5 {
+  margin-bottom: 2.3rem;
+  max-width: 52.4rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.192rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-853-b4m .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-ad-minim-zMo {
+  margin-bottom: 7.2rem;
+  max-width: 48.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-853-b4m .group-826-GaD {
+  width: 18rem;
+  height: 6rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-880-8cR {
+  width: 71rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-880-8cR .rectangle-8-ysw {
+  width: 65.1rem;
+  height: 50rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 9.7rem;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) -0%, #e7f9fd 100%);
+  border-radius: 3rem;
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-880-8cR .portrait-happy-male-chef-dressed-uniform-1-gnM {
+  width: 66rem;
+  height: 59.7rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 135.445% 100%;
+  background-position: -13.9307rem 0;
+  background-image: url('../assets/portrait-happy-male-chef-dressed-uniform-1.png');
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-880-8cR .image-20-kXK {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 59.4rem;
+  top: 16.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-880-8cR .image-27-Fys {
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 42.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-880-8cR .image-28-zwT {
+  width: 6.1237rem;
+  height: 6.1237rem;
+  position: absolute;
+  left: 46.8rem;
+  top: 9.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-jrpj-M13 .learn-more-q5b .group-880-8cR .image-21-93f {
+  width: 9.798rem;
+  height: 9.798rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-JXT .instagram-U5w {
+  box-sizing: border-box;
+  padding: 8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) -0%, #e7f9fd 100%);
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .group-857-Pyb {
+  margin: 0rem 24.1rem 8rem 24.1rem;
+  width: calc(100% - 48.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .group-857-Pyb .check-out-foodieland-on-instagram-KMT {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.192rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .group-857-Pyb .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-ad-minim-dd3 {
+  max-width: 79.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM {
+  margin-bottom: 8.056rem;
+  width: 100%;
+  height: 44.544rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 {
+  width: 29rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-top-aRo {
+  margin-bottom: 0rem;
+  box-sizing: border-box;
+  padding: 0.851rem 1.16rem 0.756rem 0.773rem;
+  width: 100%;
+  height: 4.176rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.0255rem 0 rgba(60, 60, 67, 0.2899999917);
+  background-color: #ffffff;
+  border-radius: 0.4rem 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-top-aRo .oval-sA1 {
+  margin: 0rem 0.773rem 0.095rem 0rem;
+  width: 2.4747rem;
+  height: 2.4747rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-top-aRo .auto-group-ebut-9tD {
+  margin-right: 0.8307rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-top-aRo .auto-group-ebut-9tD .joshual-74M {
+  margin-bottom: 0.0693rem;
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-top-aRo .auto-group-ebut-9tD .tokyo-japan-BK7 {
+  font-size: 0.8507rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-top-aRo .official-icon-W6V {
+  margin: 0rem 16.04rem 1.038rem 0rem;
+  width: 0.7655rem;
+  height: 0.7577rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-top-aRo .more-icon-2qX {
+  margin-bottom: 0.0947rem;
+  width: 1.0827rem;
+  height: 0.232rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .auto-group-cj1s-vR7 {
+  box-sizing: border-box;
+  padding: 1.083rem 1.083rem 1.083rem 25.288rem;
+  width: 100%;
+  height: 29rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-bg-sKw.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .auto-group-cj1s-vR7 .photo-number-FyB {
+  margin-bottom: 24.824rem;
+  width: 100%;
+  height: 2.0107rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 0.928rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #f9f9f9;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(18, 18, 18, 0.6999999881);
+  border-radius: 1.0053rem;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 {
+  box-sizing: border-box;
+  padding: 0.981rem 1.209rem 0.911rem 1.083rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-KJq.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .auto-group-gpkd-2cZ {
+  margin-bottom: 0.941rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .auto-group-gpkd-2cZ .like-NwK {
+  margin: 0rem 1.341rem 0.072rem 0rem;
+  width: 1.8297rem;
+  height: 1.5912rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .auto-group-gpkd-2cZ .comment-7tu {
+  margin: 0.044rem 1.353rem 0rem 0rem;
+  width: 1.7013rem;
+  height: 1.7074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .auto-group-gpkd-2cZ .messanger-Dh3 {
+  margin: 0rem 4.429rem 0.136rem 0rem;
+  width: 1.7575rem;
+  height: 1.5276rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .auto-group-gpkd-2cZ .pagination-kws {
+  margin: 0rem 10.7rem 0.039rem 0rem;
+  width: 2.0107rem;
+  height: 0.464rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .auto-group-gpkd-2cZ .save-VuT {
+  width: 1.5854rem;
+  height: 1.7905rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .likes-info-qTX {
+  margin: 0rem 8.975rem 0.387rem 0.116rem;
+  width: calc(100% - 9.0907rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .likes-info-qTX .oval-Mgm {
+  margin-right: 0.5027rem;
+  width: 1.3147rem;
+  height: 1.3147rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .likes-info-qTX .liked-by-craiglove-6PT {
+  margin-bottom: 0.0694rem;
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .likes-info-qTX .liked-by-craiglove-6PT .liked-by-craiglove-6PT-sub-0 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .likes-info-qTX .liked-by-craiglove-6PT .liked-by-craiglove-6PT-sub-1 {
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .likes-info-qTX .liked-by-craiglove-6PT .liked-by-craiglove-6PT-sub-2 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .likes-info-qTX .liked-by-craiglove-6PT .liked-by-craiglove-6PT-sub-3 {
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .joshual-the-game-in-mnR {
+  margin: 0rem 0rem 0.989rem 0.077rem;
+  max-width: 26.5rem;
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .joshual-the-game-in-mnR .joshual-the-game-in-mnR-sub-1 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .joshual-the-game-in-mnR .joshual-the-game-in-mnR-sub-2 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-Dr9 .post-bottom-u29 .september-19-atH {
+  margin-left: 0.0773rem;
+  font-size: 0.8507rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.0039rem;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF {
+  width: 29rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-top-amo {
+  margin-bottom: 0rem;
+  box-sizing: border-box;
+  padding: 0.851rem 1.16rem 0.756rem 0.773rem;
+  width: 100%;
+  height: 4.176rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.0255rem 0 rgba(60, 60, 67, 0.2899999917);
+  background-color: #ffffff;
+  border-radius: 0.4rem 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-top-amo .oval-Vds {
+  margin: 0rem 0.773rem 0.095rem 0rem;
+  width: 2.4747rem;
+  height: 2.4747rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-top-amo .auto-group-nvhb-afK {
+  margin-right: 0.8307rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-top-amo .auto-group-nvhb-afK .joshual-Y6M {
+  margin-bottom: 0.0693rem;
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-top-amo .auto-group-nvhb-afK .tokyo-japan-GY9 {
+  font-size: 0.8507rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-top-amo .official-icon-QeM {
+  margin: 0rem 16.04rem 1.038rem 0rem;
+  width: 0.7655rem;
+  height: 0.7577rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-top-amo .more-icon-JDw {
+  margin-bottom: 0.0947rem;
+  width: 1.0827rem;
+  height: 0.232rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .auto-group-bnnm-PWH {
+  box-sizing: border-box;
+  padding: 1.083rem 1.083rem 1.083rem 25.288rem;
+  width: 100%;
+  height: 29rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-bg-VVT.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .auto-group-bnnm-PWH .photo-number-hms {
+  margin-bottom: 24.824rem;
+  width: 100%;
+  height: 2.0107rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 0.928rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #f9f9f9;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(18, 18, 18, 0.6999999881);
+  border-radius: 1.0053rem;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 {
+  box-sizing: border-box;
+  padding: 0.981rem 1.209rem 0.911rem 1.083rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-yZj.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .auto-group-o7cm-hvH {
+  margin-bottom: 0.941rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .auto-group-o7cm-hvH .like-aDP {
+  margin: 0rem 1.341rem 0.072rem 0rem;
+  width: 1.8297rem;
+  height: 1.5912rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .auto-group-o7cm-hvH .comment-Wsj {
+  margin: 0.044rem 1.353rem 0rem 0rem;
+  width: 1.7013rem;
+  height: 1.7074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .auto-group-o7cm-hvH .messanger-FqK {
+  margin: 0rem 4.429rem 0.136rem 0rem;
+  width: 1.7575rem;
+  height: 1.5276rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .auto-group-o7cm-hvH .pagination-BDB {
+  margin: 0rem 10.7rem 0.039rem 0rem;
+  width: 2.0107rem;
+  height: 0.464rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .auto-group-o7cm-hvH .save-Vjf {
+  width: 1.5854rem;
+  height: 1.7905rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .likes-info-pmw {
+  margin: 0rem 8.975rem 0.387rem 0.116rem;
+  width: calc(100% - 9.0907rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .likes-info-pmw .oval-AL1 {
+  margin-right: 0.5027rem;
+  width: 1.3147rem;
+  height: 1.3147rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .likes-info-pmw .liked-by-craiglove-Wuf {
+  margin-bottom: 0.0694rem;
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .likes-info-pmw .liked-by-craiglove-Wuf .liked-by-craiglove-Wuf-sub-0 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .likes-info-pmw .liked-by-craiglove-Wuf .liked-by-craiglove-Wuf-sub-1 {
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .likes-info-pmw .liked-by-craiglove-Wuf .liked-by-craiglove-Wuf-sub-2 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .likes-info-pmw .liked-by-craiglove-Wuf .liked-by-craiglove-Wuf-sub-3 {
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .joshual-the-game-in-UtR {
+  margin: 0rem 0rem 0.989rem 0.077rem;
+  max-width: 24.9rem;
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .joshual-the-game-in-UtR .joshual-the-game-in-UtR-sub-1 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-edF .post-bottom-Nd7 .september-19-Jky {
+  margin-left: 0.0773rem;
+  font-size: 0.8507rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.0039rem;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM {
+  width: 29rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-top-VKf {
+  margin-bottom: 0rem;
+  box-sizing: border-box;
+  padding: 0.851rem 1.16rem 0.756rem 0.773rem;
+  width: 100%;
+  height: 4.176rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.0255rem 0 rgba(60, 60, 67, 0.2899999917);
+  background-color: #ffffff;
+  border-radius: 0.4rem 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-top-VKf .oval-PA9 {
+  margin: 0rem 0.773rem 0.095rem 0rem;
+  width: 2.4747rem;
+  height: 2.4747rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-top-VKf .auto-group-joe1-hwX {
+  margin-right: 0.8307rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-top-VKf .auto-group-joe1-hwX .joshual-r3j {
+  margin-bottom: 0.0693rem;
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-top-VKf .auto-group-joe1-hwX .tokyo-japan-AKK {
+  font-size: 0.8507rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-top-VKf .official-icon-VsP {
+  margin: 0rem 16.04rem 1.038rem 0rem;
+  width: 0.7655rem;
+  height: 0.7577rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-top-VKf .more-icon-S1w {
+  margin-bottom: 0.0947rem;
+  width: 1.0827rem;
+  height: 0.232rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .auto-group-rj2m-L7K {
+  box-sizing: border-box;
+  padding: 1.083rem 1.083rem 1.083rem 25.288rem;
+  width: 100%;
+  height: 29rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-bg-dA1.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .auto-group-rj2m-L7K .photo-number-sN9 {
+  margin-bottom: 24.824rem;
+  width: 100%;
+  height: 2.0107rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 0.928rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #f9f9f9;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(18, 18, 18, 0.6999999881);
+  border-radius: 1.0053rem;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry {
+  box-sizing: border-box;
+  padding: 0.981rem 1.209rem 0.911rem 1.083rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-7Zb.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .auto-group-ecmw-S3s {
+  margin-bottom: 0.941rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .auto-group-ecmw-S3s .like-BXF {
+  margin: 0rem 1.341rem 0.072rem 0rem;
+  width: 1.8297rem;
+  height: 1.5912rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .auto-group-ecmw-S3s .comment-Vnq {
+  margin: 0.044rem 1.353rem 0rem 0rem;
+  width: 1.7013rem;
+  height: 1.7074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .auto-group-ecmw-S3s .messanger-33f {
+  margin: 0rem 4.429rem 0.136rem 0rem;
+  width: 1.7575rem;
+  height: 1.5276rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .auto-group-ecmw-S3s .pagination-vNM {
+  margin: 0rem 10.7rem 0.039rem 0rem;
+  width: 2.0107rem;
+  height: 0.464rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .auto-group-ecmw-S3s .save-3C5 {
+  width: 1.5854rem;
+  height: 1.7905rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .likes-info-bDb {
+  margin: 0rem 8.975rem 0.387rem 0.116rem;
+  width: calc(100% - 9.0907rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .likes-info-bDb .oval-vmf {
+  margin-right: 0.5027rem;
+  width: 1.3147rem;
+  height: 1.3147rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .likes-info-bDb .liked-by-craiglove-TWh {
+  margin-bottom: 0.0694rem;
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .likes-info-bDb .liked-by-craiglove-TWh .liked-by-craiglove-TWh-sub-0 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .likes-info-bDb .liked-by-craiglove-TWh .liked-by-craiglove-TWh-sub-1 {
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .likes-info-bDb .liked-by-craiglove-TWh .liked-by-craiglove-TWh-sub-2 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .likes-info-bDb .liked-by-craiglove-TWh .liked-by-craiglove-TWh-sub-3 {
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .joshual-the-game-in-37X {
+  margin: 0rem 0rem 0.989rem 0.077rem;
+  max-width: 25.4rem;
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .joshual-the-game-in-37X .joshual-the-game-in-37X-sub-1 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-MUM .post-bottom-hry .september-19-Xwo {
+  margin-left: 0.0773rem;
+  font-size: 0.8507rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.0039rem;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV {
+  width: 29rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-top-9TP {
+  margin-bottom: 0rem;
+  box-sizing: border-box;
+  padding: 0.851rem 1.16rem 0.756rem 0.773rem;
+  width: 100%;
+  height: 4.176rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.0255rem 0 rgba(60, 60, 67, 0.2899999917);
+  background-color: #ffffff;
+  border-radius: 0.4rem 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-top-9TP .oval-rsb {
+  margin: 0rem 0.773rem 0.095rem 0rem;
+  width: 2.4747rem;
+  height: 2.4747rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-top-9TP .auto-group-ihwo-B9B {
+  margin-right: 0.8307rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-top-9TP .auto-group-ihwo-B9B .joshual-w8M {
+  margin-bottom: 0.0693rem;
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-top-9TP .auto-group-ihwo-B9B .tokyo-japan-GRX {
+  font-size: 0.8507rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-top-9TP .official-icon-QXj {
+  margin: 0rem 16.04rem 1.038rem 0rem;
+  width: 0.7655rem;
+  height: 0.7577rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-top-9TP .more-icon-LRP {
+  margin-bottom: 0.0947rem;
+  width: 1.0827rem;
+  height: 0.232rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .auto-group-7zxh-CCh {
+  box-sizing: border-box;
+  padding: 1.083rem 1.083rem 1.083rem 25.288rem;
+  width: 100%;
+  height: 29rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-bg.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .auto-group-7zxh-CCh .photo-number-vuP {
+  margin-bottom: 24.824rem;
+  width: 100%;
+  height: 2.0107rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 0.928rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #f9f9f9;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(18, 18, 18, 0.6999999881);
+  border-radius: 1.0053rem;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 {
+  box-sizing: border-box;
+  padding: 0.981rem 1.209rem 0.911rem 1.083rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-LaM.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .auto-group-awjm-G65 {
+  margin-bottom: 0.941rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .auto-group-awjm-G65 .like-orh {
+  margin: 0rem 1.341rem 0.072rem 0rem;
+  width: 1.8297rem;
+  height: 1.5912rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .auto-group-awjm-G65 .comment-wxu {
+  margin: 0.044rem 1.353rem 0rem 0rem;
+  width: 1.7013rem;
+  height: 1.7074rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .auto-group-awjm-G65 .messanger-4Xj {
+  margin: 0rem 4.429rem 0.136rem 0rem;
+  width: 1.7575rem;
+  height: 1.5276rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .auto-group-awjm-G65 .pagination-BcM {
+  margin: 0rem 10.7rem 0.039rem 0rem;
+  width: 2.0107rem;
+  height: 0.464rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .auto-group-awjm-G65 .save-81o {
+  width: 1.5854rem;
+  height: 1.7905rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .likes-info-TZs {
+  margin: 0rem 8.975rem 0.387rem 0.116rem;
+  width: calc(100% - 9.0907rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .likes-info-TZs .oval-CGZ {
+  margin-right: 0.5027rem;
+  width: 1.3147rem;
+  height: 1.3147rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .likes-info-TZs .liked-by-craiglove-wzq {
+  margin-bottom: 0.0694rem;
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .likes-info-TZs .liked-by-craiglove-wzq .liked-by-craiglove-wzq-sub-0 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .likes-info-TZs .liked-by-craiglove-wzq .liked-by-craiglove-wzq-sub-1 {
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .likes-info-TZs .liked-by-craiglove-wzq .liked-by-craiglove-wzq-sub-2 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .likes-info-TZs .liked-by-craiglove-wzq .liked-by-craiglove-wzq-sub-3 {
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0054rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .joshual-the-game-in-xS5 {
+  margin: 0rem 0rem 0.989rem 0.077rem;
+  max-width: 26.6rem;
+  font-size: 1.0053rem;
+  font-weight: 600;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .joshual-the-game-in-xS5 .joshual-the-game-in-xS5-sub-1 {
+  font-size: 1.0053rem;
+  font-weight: 400;
+  line-height: 1.3846153992;
+  letter-spacing: -0.0077rem;
+  color: #262626;
+  font-family: SF Pro Text, 'Source Sans Pro';
+}
+.home-page-JXT .instagram-U5w .auto-group-9eqo-VQM .post-RGV .post-bottom-ME1 .september-19-b7f {
+  margin-left: 0.0773rem;
+  font-size: 0.8507rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.0039rem;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .group-826-4mw {
+  margin: 0rem 51.1rem 0rem 54rem;
+  box-sizing: border-box;
+  padding: 1.9rem 3.204rem 1.9rem 3.2rem;
+  width: calc(100% - 105.1rem);
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .group-826-4mw .visit-our-instagram-XvR {
+  margin: 0rem 1.696rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .instagram-U5w .group-826-4mw .instagram-5Kf {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq {
+  box-sizing: border-box;
+  padding: 16rem 8rem 4.8rem 8rem;
+  width: 100%;
+  row-gap: 16rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-7n4h-ZPF {
+  margin: 0rem 4.4rem 7.9rem 0rem;
+  width: calc(100% - 4.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-7n4h-ZPF .try-this-delicious-recipe-to-make-your-day-twK {
+  margin-right: 15.4rem;
+  max-width: 50.6rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.192rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-7n4h-ZPF .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-ad-minim-yhs {
+  margin-bottom: 0.1rem;
+  max-width: 57.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 31.6rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd {
+  width: 29rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd .auto-group-mzdt-8UH {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-me1.png');
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd .auto-group-mzdt-8UH .group-852-rfB {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd .mixed-tropical-fruit-salad-with-superfood-boosts-N7j {
+  margin-bottom: 2.4rem;
+  max-width: 24.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd .auto-group-nic9-ytD {
+  margin-right: 7.5rem;
+  width: calc(100% - 7.5rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd .auto-group-nic9-ytD .group-829-8FK {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd .auto-group-nic9-ytD .group-829-8FK .timer-4uf {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd .auto-group-nic9-ytD .group-829-8FK .minutes-Cky {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd .auto-group-nic9-ytD .group-830-izD {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd .auto-group-nic9-ytD .group-830-izD .forkknife-fuT {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-866-mtd .auto-group-nic9-ytD .group-830-izD .healthy-bo7 {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj {
+  width: 29rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj .auto-group-vgsv-HA9 {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-txh.png');
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj .auto-group-vgsv-HA9 .group-852-NhP {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj .big-and-juicy-wagyu-beef-cheeseburger-fAh {
+  margin-bottom: 2.4rem;
+  max-width: 20.8rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj .auto-group-5eyo-YkH {
+  margin-right: 7.1rem;
+  width: calc(100% - 7.1rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj .auto-group-5eyo-YkH .group-829-VQd {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj .auto-group-5eyo-YkH .group-829-VQd .timer-eoK {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj .auto-group-5eyo-YkH .group-829-VQd .minutes-1Ny {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj .auto-group-5eyo-YkH .group-830-tSm {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj .auto-group-5eyo-YkH .group-830-tSm .forkknife-DE9 {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-867-isj .auto-group-5eyo-YkH .group-830-tSm .western-AQH {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P {
+  width: 29rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P .auto-group-qpvk-Euw {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-4Nm.png');
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P .auto-group-qpvk-Euw .group-852-9n1 {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P .healthy-japanese-fried-rice-with-asparagus-U3b {
+  margin-bottom: 2.4rem;
+  max-width: 26.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P .auto-group-ryt1-yW9 {
+  margin-right: 7.5rem;
+  width: calc(100% - 7.5rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P .auto-group-ryt1-yW9 .group-829-vAV {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P .auto-group-ryt1-yW9 .group-829-vAV .timer-t7K {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P .auto-group-ryt1-yW9 .group-829-vAV .minutes-dah {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P .auto-group-ryt1-yW9 .group-830-is3 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P .auto-group-ryt1-yW9 .group-830-is3 .forkknife-sE9 {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-868-t5P .auto-group-ryt1-yW9 .group-830-is3 .healthy-Doo {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB {
+  width: 29rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB .auto-group-uufb-GGH {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-X7X.png');
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB .auto-group-uufb-GGH .group-852-oGD {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB .cauliflower-walnut-vegetarian-taco-meat-7Gu {
+  margin-bottom: 2.4rem;
+  max-width: 29rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB .auto-group-ve3s-ph7 {
+  margin-right: 7.5rem;
+  width: calc(100% - 7.5rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB .auto-group-ve3s-ph7 .group-829-yK7 {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB .auto-group-ve3s-ph7 .group-829-yK7 .timer-jZB {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB .auto-group-ve3s-ph7 .group-829-yK7 .minutes-VHT {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB .auto-group-ve3s-ph7 .group-830-WCZ {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB .auto-group-ve3s-ph7 .group-830-WCZ .forkknife-eZf {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-qjhx-eJD .group-869-7uB .auto-group-ve3s-ph7 .group-830-WCZ .eastern-oSZ {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo {
+  width: 100%;
+  height: 31.6rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK {
+  width: 29rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK .auto-group-qjnd-nJV {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-Dzh.png');
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK .auto-group-qjnd-nJV .group-852-Vih {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK .rainbow-chicken-salad-with-almond-honey-mustard-dressing-R6Z {
+  margin-bottom: 2.4rem;
+  max-width: 26.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK .auto-group-s52h-8Fs {
+  margin-right: 7.5rem;
+  width: calc(100% - 7.5rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK .auto-group-s52h-8Fs .group-829-Gss {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK .auto-group-s52h-8Fs .group-829-Gss .timer-qg5 {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK .auto-group-s52h-8Fs .group-829-Gss .minutes-kY9 {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK .auto-group-s52h-8Fs .group-830-4Yq {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK .auto-group-s52h-8Fs .group-830-4Yq .forkknife-2kZ {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-870-2KK .auto-group-s52h-8Fs .group-830-4Yq .healthy-an5 {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M {
+  width: 29rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M .auto-group-gqah-2PB {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-zUq.png');
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M .auto-group-gqah-2PB .group-852-79j {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M .barbeque-spicy-sandwiches-with-chips-F13 {
+  margin-bottom: 2.4rem;
+  max-width: 26.9rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M .auto-group-2o77-ZXX {
+  margin-right: 8.5rem;
+  width: calc(100% - 8.5rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M .auto-group-2o77-ZXX .group-829-Jk1 {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M .auto-group-2o77-ZXX .group-829-Jk1 .timer-fqT {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M .auto-group-2o77-ZXX .group-829-Jk1 .minutes-AnD {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M .auto-group-2o77-ZXX .group-830-ty7 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M .auto-group-2o77-ZXX .group-830-ty7 .forkknife-pbs {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-871-V8M .auto-group-2o77-ZXX .group-830-ty7 .snack-yUm {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 {
+  width: 29rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 .auto-group-rzeh-qms {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-DvH.png');
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 .auto-group-rzeh-qms .group-852-B53 {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 .firecracker-vegan-lettuce-wraps-spicy-Wd7 {
+  margin-bottom: 2.4rem;
+  max-width: 28.3rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 .auto-group-sidp-dSq {
+  margin-right: 7.1rem;
+  width: calc(100% - 7.1rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 .auto-group-sidp-dSq .group-829-wyK {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 .auto-group-sidp-dSq .group-829-wyK .timer-tNm {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 .auto-group-sidp-dSq .group-829-wyK .minutes-bHB {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 .auto-group-sidp-dSq .group-830-iMo {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 .auto-group-sidp-dSq .group-830-iMo .forkknife-4gZ {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-872-JG9 .auto-group-sidp-dSq .group-830-iMo .seafood-CGy {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb {
+  width: 29rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb .auto-group-2hk7-rsK {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-FFP.png');
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb .auto-group-2hk7-rsK .group-852-P6Z {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb .chicken-ramen-soup-with-mushroom-72Z {
+  margin-bottom: 2.4rem;
+  max-width: 21.1rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb .auto-group-h3p5-pxZ {
+  margin-right: 6.2rem;
+  width: calc(100% - 6.2rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb .auto-group-h3p5-pxZ .group-829-AWd {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb .auto-group-h3p5-pxZ .group-829-AWd .timer-hmT {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb .auto-group-h3p5-pxZ .group-829-AWd .minutes-46D {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb .auto-group-h3p5-pxZ .group-830-nH7 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb .auto-group-h3p5-pxZ .group-830-nH7 .forkknife-kUq {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .more-recipes-2PK .auto-group-s2ad-tyo .group-873-KMb .auto-group-h3p5-pxZ .group-830-nH7 .japanese-Gxy {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .subscribe-card-91B {
+  box-sizing: border-box;
+  padding: 8rem 34.8rem 8rem 34.5rem;
+  width: 100%;
+  height: 44.2rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-Eob.png');
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .subscribe-card-91B .group-874-GrV {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-JXT .auto-group-2q3j-hrq .subscribe-card-91B .group-874-GrV .deliciousness-to-your-inbox-oLd {
+  margin-bottom: 2.3rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.192rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .subscribe-card-91B .group-874-GrV .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-ad-minim-KZs {
+  margin: 0rem 0rem 6.4rem 0.3rem;
+  max-width: 57.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .subscribe-card-91B .group-874-GrV .auto-group-g4kb-B6H {
+  margin: 0rem 5.2rem 0rem 5.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1rem 1rem 3.2rem;
+  width: calc(100% - 10.7rem);
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .subscribe-card-91B .group-874-GrV .auto-group-g4kb-B6H .your-email-address-gHw {
+  margin: 0rem 14.4rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .subscribe-card-91B .group-874-GrV .auto-group-g4kb-B6H .group-826-au7 {
+  width: 16rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq {
+  width: 100%;
+  row-gap: 4.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-55zy-u4D {
+  width: 100%;
+  height: 7.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-55zy-u4D .group-875-f3P {
+  margin-right: 48.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-55zy-u4D .group-875-f3P .foodieland-ag9 {
+  margin-bottom: 1.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lobster, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-55zy-u4D .group-875-f3P .foodieland-ag9 .foodieland-ag9-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ff7426;
+  font-family: Lobster, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-55zy-u4D .group-875-f3P .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-LhF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-55zy-u4D .group-824-CzM {
+  margin: 2.8rem 0rem 2.6rem 0rem;
+  height: calc(100% - 5.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-55zy-u4D .group-824-CzM .recipes-LKs {
+  margin-right: 6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-55zy-u4D .group-824-CzM .blog-SNu {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-55zy-u4D .group-824-CzM .contact-mg5 {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-55zy-u4D .group-824-CzM .about-us-6iM {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .vector-1-SGR {
+  width: 128rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-omcu-ATK {
+  margin: 0rem 0.004rem 0rem 47.2rem;
+  width: calc(100% - 47.2038rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-omcu-ATK .flowbase-powered-by-webflow-gwT {
+  margin-right: 39.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: -0.036rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Eudoxus Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-omcu-ATK .flowbase-powered-by-webflow-gwT .flowbase-powered-by-webflow-gwT-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: -0.036rem;
+  color: #ff7967;
+  font-family: Eudoxus Sans, 'Source Sans Pro';
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-omcu-ATK .social-xXb {
+  margin-bottom: 0.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-omcu-ATK .social-xXb .facebook-K7F {
+  margin: 0rem 4.004rem 0.016rem 0rem;
+  width: 0.9923rem;
+  height: 1.9845rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-omcu-ATK .social-xXb .twitter-3J9 {
+  margin: 0rem 4rem 0.013rem 0rem;
+  width: 2.2rem;
+  height: 1.7875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-JXT .auto-group-2q3j-hrq .footer-9aq .auto-group-omcu-ATK .social-xXb .instagram-M3w {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

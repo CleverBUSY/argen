@@ -1,0 +1,1125 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.blog-post-page-eND {
+  width: 100%;
+  height: 373.4rem;
+  position: relative;
+  overflow: hidden;
+  top: -90px;
+}
+.blog-post-page-eND .navigation-9Zs {
+  width: 127.9961rem;
+  height: 3rem;
+  position: absolute;
+  left: 8rem;
+  top: 4rem;
+  display: flex;
+  align-items: center;
+}
+.blog-post-page-eND .navigation-9Zs .foodieland-TaZ {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lobster, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .foodieland-TaZ .foodieland-TaZ-sub-0 {
+}
+.blog-post-page-eND .navigation-9Zs .foodieland-TaZ .foodieland-TaZ-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ff7426;
+  font-family: Lobster, 'Source Sans Pro';
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 {
+  box-sizing: border-box;
+  padding: 0.4rem 0rem 0.4rem 27.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 .group-824-C4H {
+  margin: 0.2rem 25.4rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 .group-824-C4H .home-8Tj {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 .group-824-C4H .recipes-3UD {
+  margin-right: 6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 .group-824-C4H .blog-aU9 {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 .group-824-C4H .contact-HdT {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 .group-824-C4H .about-us-D1K {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 .social-wxu {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 .social-wxu .facebook-K4M {
+  margin: 0rem 4.004rem 0.016rem 0rem;
+  width: 0.9923rem;
+  height: 1.9845rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 .social-wxu .twitter-zwB {
+  margin: 0rem 4rem 0.013rem 0rem;
+  width: 2.2rem;
+  height: 1.7875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .navigation-9Zs .auto-group-8dqm-fa9 .social-wxu .instagram-vZw {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .vector-2-eVw {
+  width: 144rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 11rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.blog-post-page-eND .footer-PyK {
+  width: 128rem;
+  height: 19.3rem;
+  position: absolute;
+  left: 8rem;
+  top: 429.3rem;
+  row-gap: 4.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD {
+  width: 100%;
+  height: 7.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD .group-875-dsf {
+  margin-right: 48.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD .group-875-dsf .foodieland-Prq {
+  margin-bottom: 1.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Lobster, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD .group-875-dsf .foodieland-Prq .foodieland-Prq-sub-0 {
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD .group-875-dsf .foodieland-Prq .foodieland-Prq-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ff7426;
+  font-family: Lobster, 'Source Sans Pro';
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD .group-875-dsf .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-x2m {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD .group-824-fxm {
+  margin: 2.8rem 0rem 2.6rem 0rem;
+  height: calc(100% - 5.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD .group-824-fxm .recipes-zEM {
+  margin-right: 6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD .group-824-fxm .blog-KXX {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD .group-824-fxm .contact-rnM {
+  margin-right: 6.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-svxy-hUD .group-824-fxm .about-us-Q3B {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .vector-1-6gh {
+  width: 128rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-y1ud-Enu {
+  margin: 0rem 0.004rem 0rem 47.2rem;
+  width: calc(100% - 47.2039rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-y1ud-Enu .flowbase-powered-by-webflow-mnq {
+  margin-right: 39.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: -0.036rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Eudoxus Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-y1ud-Enu .flowbase-powered-by-webflow-mnq .flowbase-powered-by-webflow-mnq-sub-0 {
+}
+.blog-post-page-eND .footer-PyK .auto-group-y1ud-Enu .flowbase-powered-by-webflow-mnq .flowbase-powered-by-webflow-mnq-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: -0.036rem;
+  color: #ff7967;
+  font-family: Eudoxus Sans, 'Source Sans Pro';
+}
+.blog-post-page-eND .footer-PyK .auto-group-y1ud-Enu .social-QzD {
+  margin-bottom: 0.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-y1ud-Enu .social-QzD .facebook-jWh {
+  margin: 0rem 4.004rem 0.016rem 0rem;
+  width: 0.9923rem;
+  height: 1.9845rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-y1ud-Enu .social-QzD .twitter-SR7 {
+  margin: 0rem 4rem 0.013rem 0rem;
+  width: 2.2rem;
+  height: 1.7875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .footer-PyK .auto-group-y1ud-Enu .social-QzD .instagram-i7j {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .header-C2u {
+  width: 121.9rem;
+  height: 25.3rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 19rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.blog-post-page-eND .header-C2u .full-guide-to-becoming-a-professional-chef-2Gq {
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.256rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .header-C2u .auto-group-5yss-YFB {
+  box-sizing: border-box;
+  padding: 3.1rem 8.05rem 0rem 8.05rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .header-C2u .auto-group-5yss-YFB .group-13935-Gws {
+  margin: 0rem 38.05rem 4.8rem 35.45rem;
+  width: calc(100% - 73.5rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .header-C2u .auto-group-5yss-YFB .group-13935-Gws .group-904-Q2V {
+  margin-right: 6.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .header-C2u .auto-group-5yss-YFB .group-13935-Gws .group-904-Q2V .ellipse-2-xJu {
+  margin-right: 1.6rem;
+  width: 4rem;
+  height: 4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg-2PK.png');
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .header-C2u .auto-group-5yss-YFB .group-13935-Gws .group-904-Q2V .john-smith-gEu {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: -0.032rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .header-C2u .auto-group-5yss-YFB .group-13935-Gws .vector-4-BhT {
+  margin-right: 2.4rem;
+  width: 0;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .header-C2u .auto-group-5yss-YFB .group-13935-Gws .march-2022-KYm {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .header-C2u .auto-group-5yss-YFB .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-curabitur-ac-ultrices-odio-nulla-at-congue-diam-at-dignissim-turpis-ut-vehicula-sed-velit-a-faucibus-in-feugiat-vestibulum-velit-vel-pulvinar-Evd {
+  max-width: 105.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps {
+  width: 110.1rem;
+  height: 177.2rem;
+  position: absolute;
+  left: 15rem;
+  top: 118.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX {
+  margin-right: 4.9rem;
+  width: 92rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP {
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP .how-did-you-start-out-in-the-food-industry-GVw {
+  margin: 0rem 0rem 2.3rem 4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-curabitur-ac-ultrices-odio-nulla-at-congue-diam-at-dignissim-turpis-ut-vehicula-sed-velit-a-faucibus-in-feugiat-vestibulum-velit-vel-pulvinar-fusce-id-mollis-ex-praesent-feugiat-elementum-ex-ut-suscipit-YTT {
+  margin: 0rem 0rem 11.2rem 4rem;
+  max-width: 80.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP .what-do-you-like-most-about-your-job-8Am {
+  margin: 0rem 0rem 2.3rem 4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-curabitur-ac-ultrices-odio-nulla-at-congue-diam-at-dignissim-turpis-ut-vehicula-sed-velit-a-faucibus-in-feugiat-vestibulum-velit-vel-pulvinar-fusce-id-mollis-ex-praesent-feugiat-elementum-ex-ut-suscipit-dtD {
+  margin: 0rem 0rem 8.4rem 4rem;
+  max-width: 80.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP .do-you-cook-at-home-on-your-days-off-sGm {
+  margin: 0rem 0rem 3.1rem 4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP .rectangle-23-mN9 {
+  margin: 0rem 0rem 3.2rem 3.9rem;
+  width: 84rem;
+  height: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-curabitur-ac-ultrices-odio-nulla-at-congue-diam-at-dignissim-turpis-ut-vehicula-sed-velit-a-faucibus-in-feugiat-vestibulum-velit-vel-pulvinar-fusce-id-mollis-ex-praesent-feugiat-elementum-ex-ut-suscipit-gzu {
+  margin: 0rem 0rem 5.6rem 4rem;
+  max-width: 80.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP .what-would-your-advice-be-to-young-people-looking-to-get-their-foot-in-the-door-3U5 {
+  margin: 0rem 0rem 2.3rem 4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-curabitur-ac-ultrices-odio-nulla-at-congue-diam-at-dignissim-turpis-ut-vehicula-sed-velit-a-faucibus-in-feugiat-vestibulum-velit-vel-pulvinar-fusce-id-mollis-ex-praesent-feugiat-elementum-ex-ut-suscipit-cvV {
+  margin: 0rem 0rem 6.4rem 4rem;
+  max-width: 80.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-uze5-LMP .vector-3-zAM {
+  width: 91.9rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-bvpk-i6M {
+  margin-bottom: 6.4rem;
+  box-sizing: border-box;
+  padding: 4.8rem 0rem 0rem 0.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.0500000007) 0%, rgba(0, 0, 0, 0.0500000007) 100%);
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-bvpk-i6M .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-curabitur-ac-ultrices-odio-1bF {
+  margin: 0rem 1.2rem 4.8rem 0rem;
+  max-width: 82.9rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.7777777778;
+  letter-spacing: -0.144rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .auto-group-bvpk-i6M .vector-4-Uzd {
+  width: 91.9rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .what-is-the-biggest-misconception-that-people-have-about-being-a-professional-chef-xQ1 {
+  margin: 0rem 0rem 2.4rem 4.1rem;
+  max-width: 70.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.096rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .blog-content-zHX .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-curabitur-ac-ultrices-odio-nulla-at-congue-diam-at-dignissim-turpis-ut-vehicula-sed-velit-a-faucibus-in-feugiat-vestibulum-velit-vel-pulvinar-fusce-id-mollis-ex-praesent-feugiat-elementum-ex-ut-suscipit-eXj {
+  margin-left: 4.1rem;
+  max-width: 80.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .share-tS5 {
+  width: 13.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .share-tS5 .share-this-on--eg9 {
+  margin-bottom: 3.2rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .share-tS5 .social-AuP {
+  margin: 0rem 5.6rem 0rem 5.4rem;
+  width: calc(100% - 11rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .share-tS5 .social-AuP .facebook-WCZ {
+  margin: 0rem 0.008rem 4.8rem 0rem;
+  width: 0.9923rem;
+  height: 1.9845rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .share-tS5 .social-AuP .twitter-R4d {
+  margin-bottom: 4.8rem;
+  width: 2.2rem;
+  height: 1.7875rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .auto-group-aarw-4Ps .share-tS5 .social-AuP .instagram-LxH {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .mask-group-gmF {
+  width: 128rem;
+  height: 60rem;
+  position: absolute;
+  left: 8rem;
+  top: 50.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ {
+  width: 128rem;
+  height: 44rem;
+  position: absolute;
+  left: 8rem;
+  top: 369.3rem;
+  display: flex;
+  column-gap: 4rem;
+  align-items: flex-end;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-1rto-uP7 {
+  width: 29rem;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-1rto-uP7 .auto-group-ayyr-Fxm {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-c5o.png');
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-1rto-uP7 .auto-group-ayyr-Fxm .group-852-z9f {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-1rto-uP7 .mixed-tropical-fruit-salad-with-superfood-boosts-ibT {
+  margin-bottom: 2.4rem;
+  max-width: 24.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-1rto-uP7 .auto-group-wwvf-CmX {
+  margin: 0rem 7.5rem 0rem 3.4rem;
+  width: calc(100% - 10.9rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-1rto-uP7 .auto-group-wwvf-CmX .minutes-iUy {
+  margin: 0rem 2.4rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-1rto-uP7 .auto-group-wwvf-CmX .group-830-ECR {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-1rto-uP7 .auto-group-wwvf-CmX .group-830-ECR .forkknife-bHs {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-1rto-uP7 .auto-group-wwvf-CmX .group-830-ECR .healthy-jus {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s {
+  width: 62rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .check-out-the-delicious-recipe-CHf {
+  margin-bottom: 8rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.144rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks {
+  width: 100%;
+  height: 31.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX {
+  margin-right: 4rem;
+  width: 29rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX .auto-group-sosf-xw3 {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-8UH.png');
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX .auto-group-sosf-xw3 .group-852-SrD {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX .big-and-juicy-wagyu-beef-cheeseburger-ahX {
+  margin-bottom: 2.4rem;
+  max-width: 20.8rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX .auto-group-zbe1-JNd {
+  margin-right: 7.1rem;
+  width: calc(100% - 7.1rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX .auto-group-zbe1-JNd .group-829-2Jd {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX .auto-group-zbe1-JNd .group-829-2Jd .timer-Mrh {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX .auto-group-zbe1-JNd .group-829-2Jd .minutes-K2q {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX .auto-group-zbe1-JNd .group-830-Kh3 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX .auto-group-zbe1-JNd .group-830-Kh3 .forkknife-6C1 {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-867-QuX .auto-group-zbe1-JNd .group-830-Kh3 .western-1pm {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ {
+  width: 29rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ .auto-group-amcd-gAD {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-DFX.png');
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ .auto-group-amcd-gAD .group-852-c3s {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ .healthy-japanese-fried-rice-with-asparagus-kA5 {
+  margin-bottom: 2.4rem;
+  max-width: 26.6rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ .auto-group-qxhb-SYh {
+  margin-right: 7.5rem;
+  width: calc(100% - 7.5rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ .auto-group-qxhb-SYh .group-829-Ajb {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ .auto-group-qxhb-SYh .group-829-Ajb .timer-jGu {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ .auto-group-qxhb-SYh .group-829-Ajb .minutes-gT3 {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ .auto-group-qxhb-SYh .group-830-onZ {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ .auto-group-qxhb-SYh .group-830-onZ .forkknife-Z13 {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .auto-group-ba41-39s .auto-group-otkh-4Ks .group-868-KaZ .auto-group-qxhb-SYh .group-830-onZ .healthy-snR {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX {
+  width: 29rem;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX .auto-group-w8mx-Z9T {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.6rem 1.6rem 22.6rem;
+  width: 100%;
+  height: 20rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-KRK.png');
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX .auto-group-w8mx-Z9T .group-852-eRo {
+  margin-bottom: 12rem;
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX .cauliflower-walnut-vegetarian-taco-meat-A9F {
+  margin-bottom: 2.4rem;
+  max-width: 29rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.4444444444;
+  letter-spacing: -0.072rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX .auto-group-qvsy-rXs {
+  margin-right: 7.5rem;
+  width: calc(100% - 7.5rem);
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX .auto-group-qvsy-rXs .group-829-Q3b {
+  margin-right: 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX .auto-group-qvsy-rXs .group-829-Q3b .timer-xau {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX .auto-group-qvsy-rXs .group-829-Q3b .minutes-7Cu {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX .auto-group-qvsy-rXs .group-830-Qho {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX .auto-group-qvsy-rXs .group-830-Qho .forkknife-8do {
+  margin-right: 1rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .recommendation-recipe-pcZ .group-869-bTX .auto-group-qvsy-rXs .group-830-Qho .eastern-rph {
+  margin-bottom: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .subscribe-card-No3 {
+  box-sizing: border-box;
+  padding: 8rem 34.8rem 8rem 34.5rem;
+  width: 128rem;
+  height: 44.2rem;
+  position: absolute;
+  left: 8rem;
+  top: 309.1rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-eY9.png');
+}
+.blog-post-page-eND .subscribe-card-No3 .group-874-T3o {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.blog-post-page-eND .subscribe-card-No3 .group-874-T3o .deliciousness-to-your-inbox-1b7 {
+  margin-bottom: 2.3rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.192rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .subscribe-card-No3 .group-874-T3o .lorem-ipsum-dolor-sit-amet-consectetuipisicing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqut-enim-ad-minim-6Mf {
+  margin: 0rem 0rem 6.4rem 0.3rem;
+  max-width: 57.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.blog-post-page-eND .subscribe-card-No3 .group-874-T3o .auto-group-p5ah-YzM {
+  margin: 0rem 5.2rem 0rem 5.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1rem 1rem 3.2rem;
+  width: calc(100% - 10.7rem);
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .subscribe-card-No3 .group-874-T3o .auto-group-p5ah-YzM .your-email-address-eGh {
+  margin: 0rem 14.4rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: rgba(0, 0, 0, 0.400000006);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.blog-post-page-eND .subscribe-card-No3 .group-874-T3o .auto-group-p5ah-YzM .group-826-qry {
+  width: 16rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: -0.028rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
